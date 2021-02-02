@@ -9,7 +9,8 @@ public class Application {
 
 /* touch will create files in terminal
 * ie touch .gitignore
-*
+* create repo on github
+* git add -A
 *
 *
 * */
